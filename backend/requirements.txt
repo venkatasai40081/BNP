@@ -1,0 +1,15 @@
+flask
+flask-cors
+pandas
+numpy
+scikit-learn
+vaderSentiment
+matplotlib
+seaborn
+yfinance
+requests
+praw
+python-dotenv
+newsapi-python
+fredapi
+textblob

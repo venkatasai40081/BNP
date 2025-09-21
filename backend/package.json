@@ -1,0 +1,12 @@
+{
+  "name": "market-sentiment-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Market Sentiment Dashboard using ML predictions",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "dev": "python app.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
