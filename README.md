@@ -33,6 +33,14 @@ Built with **React, Tailwind CSS, Flask, and MongoDB**, the system also integrat
 3. Perform **sentiment analysis** on real-time streams  
 4. Provide actionable insights via an interactive dashboard  
 
+
+---
+## 📑 Finance Chatbot
+<img width="1876" height="877" alt="Image" src="https://github.com/user-attachments/assets/6972ac5b-4608-4ed4-9b66-e30113772946" />
+
+<img width="1613" height="862" alt="Image" src="https://github.com/user-attachments/assets/7a45c3b2-cdd4-4d73-9db2-0c4f15b0927a" />
+
+<img width="1870" height="847" alt="Image" src="https://github.com/user-attachments/assets/a490854e-73b1-45e1-b2e8-8615760d0e57" />
 ---
 
 ## 📌 Team Members
